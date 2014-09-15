@@ -43,6 +43,8 @@ Print and hand each person a card with the credentials to access the code.org tu
 
 Don't worry if you get stuck or don't remember it. We will be walking around to help you out. Once you are done, let one of us know.
 
+Our class URL is: http://studio.code.org/sections/NXFDIQ. Each student has their own secret image that is associated with their account. No need to sign up or put in email addresses, etc.
+
 Extra Time
 ---------
 
