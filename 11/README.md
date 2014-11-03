@@ -12,13 +12,13 @@ Introduction
 
 Today we are going to be going back to Scratch to great full games and programs rather than just doing exercises. For those who haven't used Scratch before it is a lot like code.org.
 
-Before we start, let's get a little pumped up and wake up. We are going to chant. Ok, when I say "Buena", I want this side of the room to yell out "Beuna", when I say "Vista" I want this side of the room to yell "Vista", when I say "Horace", I want this side again to say "Horace" and then "Mann", I want this side to say "Mann".
+Before we start, let's get a little pumped up and wake up. We are going to chant. Ok, when I say "Buena", I want this side of the room to yell out "Buena", when I say "Vista" I want this side of the room to yell "Vista", when I say "Horace", I want this side again to say "Horace" and then "Mann", I want this side to say "Mann".
 
 Ok ready? (start chanting)
 
 Get faster and then finish up.
 
-Ok, guess what guys! We just did something that relates to the concept of eventing. You are going to be doing a little bit of this today. Let's see the code for this chant:
+Ok, guess what guys! We just did something that relates to the concept of eventing. You are going to be doing a little bit of this today. Let's see the code for this chant
 
 Teacher Script:
 
@@ -34,13 +34,13 @@ Teacher Script:
 
 Left half of the class:
 
-    when I receive "Beuna"
-    yell "Beuna"
+    when I receive "Buena"
+    yell "Buena"
 
     when I receive "Horace"
     yell "Horace"
 
-Right hafl of class
+Right half of class
 
     when I receive "Vista"
     yell "Vista"
